@@ -200,30 +200,39 @@ main h2 {
 }
 
 .box-1, .box-2,.box-3 {
-    width: 300px;
-    height: 320px;
-    background-image: url("../aladio/imagens/gear0.png");
+    width: 380px;
+    height: 220px;
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
     border-radius: 10px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
     cursor: pointer;
 }
 
-.box-1:hover { 
-    background-image: url("../aladio/imagens/gear1.png");
+.box-1 {
+    background-image: url("../aladio/imagens/aluraBooks.png");
+}
+
+.box-2 {
+    background-image: url("../aladio/imagens/analisadorDeNumeros.png");
+}
+
+.box-3 {
+    background-image: url("../aladio/imagens/jogoNumeroSecreto.png");
+}
+
+.box-1:hover {
     transition: 0.4s;
     opacity: .9;
 }
 
 .box-2:hover {    
-    background-image: url("../aladio/imagens/gear1.png");
     transition: 0.4s;
     opacity: .9;
 }
 
-.box-3:hover {
-    background-image: url("../aladio/imagens/gear1.png");
+.box-3:hover {    
     transition: 0.4s;
     opacity: .9;
 }
