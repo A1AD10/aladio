@@ -5,7 +5,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Portifólio**
-| :label: Tecnologias | java, html, css (tecnologias utilizadas)
+| :label: Tecnologias | javascript, html, css (tecnologias utilizadas)
 | :rocket: URL         | a1ad10.github.io/aladio/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
